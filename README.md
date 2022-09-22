@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @osor1s
+- 👀 I’m interested in learning all new skills and advance with my level ...
+- 🌱 I’m currently a stusent at faculty computer and information technology cairo university ...
+- 📫 ahmedyaqoub0021@gmail.com ...
+
+<!---
+osor1s/osor1s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
